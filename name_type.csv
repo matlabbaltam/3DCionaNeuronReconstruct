@@ -1,0 +1,187 @@
+Cell ID,Cell Type
+1,cor-ass BVIN
+2,cor-ass BVIN
+3,BVIN
+4,PNIN
+6,PNIN
+13,BVIN
+15,cor-ass BVIN
+16,BVIN
+17,cor-ass BVIN
+18,BVIN
+20,PNIN
+21,BVIN
+22,BVIN
+23,cor-ass BVIN
+24,BVIN
+29,PNIN
+30,PNIN
+33,BVIN
+38,cor-ass BVIN
+41,BVIN
+42,BVIN
+43,BVIN
+46,BVIN
+48,cor-ass BVIN
+50,cor-ass BVIN
+55,cor-ass BVIN
+59,cor-ass BVIN
+60,cor-ass BVIN
+61,PNIN 
+62,cor-ass BVIN
+65,PNIN 
+68,cor-ass BVIN
+70,cor-ass BVIN
+73,cor-ass BVIN
+74,pr-AMG RN
+78,cor-ass BVIN
+79,cor-ass BVIN
+80,prRN
+85,PNIN
+86,prRN
+88,PNIN 
+90,Bipolar prIN
+92,Bipolar prIN
+93,non-sensory RN
+94,pr-AMG RN
+95,aaIN
+96,prRN
+99,Eminens
+100,prRN
+102,aaIN
+103,non-sensory RN
+105,pr-cor RN
+106,non-sensory RN
+108,pr-AMG RN
+109,Eminens
+112,pr-cor RN
+115,aaIN
+116,pr-AMG RN
+119,pr-cor RN
+120,AntRN
+121,prRN
+122,non-sensory RN
+123,pr-BTN RN
+124,pr-AMG RN
+125,non-sensory RN
+126,prRN
+127,pr-AMG RN
+130,pr-BTN RN
+131,PNRN
+134,AntRN
+135,AntRN
+140,pr-AMG RN
+142,AntRN
+143,AntRN
+147,AntRN
+152,AntRN
+153,AntRN
+157,pr-AMG RN
+159,AntRN
+160,PBV PNIN
+161,AntRN
+162,PBV PNIN
+163,PBV PNIN
+164,PBV PNIN
+165,Neck 
+166,Neck 
+107,Ambiguous
+177,Ambiguous
+ACIN1L,ACIN
+ACIN2L,ACIN
+ACIN2R,ACIN
+AMG1,AMG
+AMG2,AMG
+AMG3,AMG
+AMG4,AMG
+AMG5,AMG
+AMG6,AMG
+AMG7,AMG
+ant1,Antenna
+ant2,Antenna
+coronet1,Coronet
+coronet10,Coronet
+coronet11,Coronet
+coronet12,Coronet
+coronet13,Coronet
+coronet14,Coronet
+coronet15,Coronet
+coronet16,Coronet
+coronet2,Coronet
+coronet3,Coronet
+coronet4,Coronet
+coronet5,Coronet
+coronet6,Coronet
+coronet7,Coronet
+coronet8,Coronet
+coronet9,Coronet
+ddNL,ddN
+ddNR,ddN
+lens4,lens cell
+lens5,lens cell
+lens8,lens cell
+MGIN1L,MGIN
+MGIN1R,MGIN
+MGIN2L,MGIN
+MGIN2R,MGIN
+MGIN3L,MGIN
+MGIN3R,MGIN
+MN1L,MN
+MN1R,MN
+MN2L,MN
+MN2R,MN
+MN3L,MN
+MN3R,MN
+MN4L,MN
+MN4R,MN
+MN5L,MN
+MN5R,MN
+mt1,Midtail neuron
+mt2,Midtail neuron
+mt4,Midtail neuron
+mt7,Midtail neuron
+PMGN1,PMGN
+PMGN2,PMGN
+pr-a,PR (II)
+pr-b,PR (II)
+pr-c,PR (II)
+pr-d,PR (II)
+pr-e,PR (II)
+pr-f,PR (II)
+pr-g,PR (II)
+pr1,PR (I)
+pr10,PR (I)
+pr11,PR (I)
+pr12,PR (I)
+pr13,PR (I)
+pr14,PR (I)
+pr15,PR (I)
+pr16,PR (I)
+pr17,PR (I)
+pr18,PR (I)
+pr19,PR (I)
+pr2,PR (I)
+pr20,PR (I)
+pr21,PR (I)
+pr22,PR (I)
+pr23,PR (I)
+pr3,PR (I)
+pr4,PR (I)
+pr5,PR (I)
+pr6,PR (I)
+pr7,PR (I)
+pr8,PR (I)
+pr9,PR (I)
+prIII-101,PR (III)
+prIII-110,PR (III)
+PrIII-113,PR (III)
+prIII-114,PR (III)
+prIII-6,PR (III)
+PrIII-7,PR (III)
+PrIII-84,PR (III)
+trIN,trIN
+ukn,BVIN
+ukn2,BVIN
+vac3,vacIN        (no axon)
+vacIN1,vacIN
+vacIN2,vacIN
